@@ -8,8 +8,8 @@ const jura = Jura({
 })
 
 export const metadata = {
-  title: "Viraha | Launching Soon",
-  description: "Viraha Clothing – Launching Soon",
+  title: "Viraha Studio",
+  description: "Viraha Studio – Launching Soon",
 }
 
 export default function RootLayout({ children }) {
